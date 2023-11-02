@@ -1,0 +1,19 @@
+{
+  "name": "esm-demo",
+  "version": "1.0.0",
+  "description": "A demo of using ES Modules in a plain Node.js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekodjin/node-esm-demo.git"
+  },
+  "author": "Avery R. <contact@nekodjin.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nekodjin/node-esm-demo/issues"
+  },
+  "homepage": "https://github.com/nekodjin/node-esm-demo#readme"
+}
